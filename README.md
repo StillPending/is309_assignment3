@@ -42,5 +42,4 @@ Assumption: I had some confusion with the updating the status to “open” and 
 PROJ_TYPE_PP
 Assumption: straightforward, from assignment 2.
 
-- [Contribution](#team)
 - [Licence](#license)
