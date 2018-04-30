@@ -12,8 +12,12 @@
 ## Table of Contents
 
 - [Assumptions](#assumptions)
+- [Contribution](#contribution)
+
+---
 
 
+## Assumptions
 
 CALC_PERCENT_OF_GOAL_PF:
 Assumption: Returning a negative number to denote an error is acceptable for the function.
@@ -35,12 +39,24 @@ CHECKOUT_PP
 Assumption: Confusion with the structure made it difficult to execute this procedure completely
 
 
-
 STATUS_UNDERWAY_PP
 Assumption: I had some confusion with the updating the status to “open” and “underway and the select count in status underway. The problem was solved by using SUM and Update in a correct way. 
 
 PROJ_TYPE_PP
 Assumption: straightforward, from assignment 2.
 
-- [License](#license)
-MIT
+---
+
+## Contribution
+
+Ali Al-Musawi 
+
+Eirik Fintland 
+
+Peter Kwasa 
+
+Osman Younas
+
+---
+
+
