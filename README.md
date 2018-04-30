@@ -12,6 +12,9 @@
 ## Table of Contents
 
 - [Assumptions](#assumptions)
+
+
+
 CALC_PERCENT_OF_GOAL_PF:
 Assumption: Returning a negative number to denote an error is acceptable for the function.
 
